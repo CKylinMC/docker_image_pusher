@@ -1,4 +1,2 @@
---platform=linux/amd64 wordpress:latest
---platform=linux/amd64 wordpress:cli
---platform=linux/amd64 phpmyadmin:latest
---platform=linux/amd64 mysql:latest
+--platform=linux/amd64 zechyw/easynmt-api-m2m-100-418m-cpu:latest
+--platform=linux/amd64 easynmt/api:2.0-cpu
